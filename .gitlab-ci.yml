@@ -1,0 +1,4 @@
+
+deploy-nextcloud:
+  script: "./run-ci-debian-nextcloud.sh"
+
