@@ -71,6 +71,14 @@ Additional Components
 * ffmpeg
 * redis-server
 
+external Nextcloud Services
+===========================
+
+* OnlyOffice
+* https://github.com/ass-a2s/build-smartos-docker-onlyoffice
+* Draw.IO
+* https://github.com/ass-a2s/build-smartos-docker-drawio
+
 Progress
 ========
 
