@@ -1305,6 +1305,9 @@ check_hard setting: new nginx php config
 install_package smbclient
 check_hard install: smbclient
 
+install_package php-smbclient
+check_hard install: php-smbclient
+
 vm_info
 
 configure_new_nextcloud
