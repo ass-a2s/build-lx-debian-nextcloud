@@ -1305,6 +1305,7 @@ check_hard setting: new nginx php config
 install_package smbclient
 check_hard install: smbclient
 
+#// workaround for too many smb connections (Nextcloud PHP-FPM Crash / WARNING: [pool www] server reached pm.max_children setting)
 install_package php-smbclient
 check_hard install: php-smbclient
 
